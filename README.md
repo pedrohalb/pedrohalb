@@ -18,5 +18,4 @@
   <a href="https://www.instagram.com/phh_barbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedro.barbosa@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/pedro-henrique-alves-barbosa-3056aa26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![snake gif](https://github.com/pedrohalb/pedrohalb/blob/output/github-contribution-grid-snake.svg)
 </div>
