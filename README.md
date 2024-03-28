@@ -8,7 +8,7 @@ I am attending college at the Federal University of Alfenas in Minas Gerais, Bra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohalb&layout=pie&theme=dark)](https://github.com/pedrohalb/github-readme-stats)
 
-## Skills
+## Languages ​​i use
 [![Back-End](https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,haskell,html,css,python)](https://skillicons.dev)
 
 ## Programs i use
