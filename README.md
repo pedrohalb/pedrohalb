@@ -1,4 +1,4 @@
-## Hello, I am Pedro Henrique!
+## Hello, i am Pedro Henrique!
 
 ## About Me 
 
