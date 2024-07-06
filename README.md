@@ -8,10 +8,10 @@ I am attending college at the Federal University of Alfenas in Minas Gerais, Bra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohalb&layout=pie&theme=dark)](https://github.com/pedrohalb/github-readme-stats)
 
-## Languages already used
+## Languages ​​studied and used
 [![Back-End](https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,haskell,html,css,python)](https://skillicons.dev)
 
-## Programs ​​already used
+## Programs studied and used
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,replit,blender,r,linux,unity)](https://skillicons.dev)
 
 ##
