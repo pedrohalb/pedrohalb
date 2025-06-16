@@ -5,9 +5,9 @@
 I am attending college at the Federal University of Alfenas in Minas Gerais, Brazil. I aspire to become a great software developer, and I study and work hard for it. I am very proactive and quick to learn!
 
 ## My Skills
-[![Back-End](https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,haskell,html,css,python)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,haskell,html,css,python,php)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,replit,blender,r,linux,unity,visualstudio)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,replit,blender,r,linux,unity,visualstudio,docker)](https://skillicons.dev)
 
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
