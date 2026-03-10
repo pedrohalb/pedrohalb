@@ -5,7 +5,7 @@
 I am attending college at the Federal University of Alfenas in Minas Gerais, Brazil. I aspire to become a great software developer, and I study and work hard for it. I am very proactive and quick to learn!
 
 ## My Skills
-[![Back-End](https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,haskell,html,css,python,php)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,java,python,react,vue,html,css,bootstrap,mysql,postgres,mongodb,redis,cassandra,docker,linux,nginx,rabbitmq,git,github)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,replit,blender,r,linux,unity,visualstudio,docker)](https://skillicons.dev)
 
