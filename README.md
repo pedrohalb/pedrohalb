@@ -7,8 +7,6 @@ I am attending college at the Federal University of Alfenas in Minas Gerais, Bra
 ## My Skills
 [![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,java,python,react,vue,html,css,bootstrap,mysql,postgres,mongodb,redis,cassandra,docker,linux,nginx,rabbitmq,git,github)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,replit,blender,r,linux,unity,visualstudio,docker)](https://skillicons.dev)
-
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
