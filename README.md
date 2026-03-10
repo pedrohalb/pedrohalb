@@ -2,7 +2,11 @@
 
 ## About Me 
 
-I am attending college at the Federal University of Alfenas in Minas Gerais, Brazil. I aspire to become a great software developer, and I study and work hard for it. I am very proactive and quick to learn!
+I am Pedro Henrique Alves Barbosa, a Computer Science undergraduate at Federal University of Alfenas, with an expected graduation in the first semester of 2026. I have more than two years of programming experience and over one year of professional experience as a full-stack developer.
+
+Currently, I work at Grupo Awtech, developing and maintaining critical production applications using Node.js, TypeScript, NestJS, React, PHP, and Vue.js. In my daily work, I investigate bugs, perform root cause analysis, optimize queries in MySQL and MongoDB, and manage queues with RabbitMQ in event-driven architectures and distributed systems.
+
+Previously, I worked at Glorium CG Consultoria, maintaining systems integrated with WhatsApp and bank payment slips (boletos), as well as administering Linux servers using Docker and aaPanel. My academic and professional background has strengthened an investigative profile focused on problem-solving, continuous improvement, and building reliable solutions for production environments. Advanced English proficiency.
 
 ## My Skills
 [![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,java,python,react,vue,html,css,bootstrap,mysql,postgres,mongodb,redis,cassandra,docker,linux,nginx,rabbitmq,git,github)](https://skillicons.dev)
