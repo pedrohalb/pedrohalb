@@ -1,25 +1,34 @@
 ## Hello, I am Pedro Henrique!
-
-## About Me 
-
-I am Pedro Henrique Alves Barbosa, a Computer Science undergraduate at Federal University of Alfenas, with an expected graduation in the first semester of 2026. I have more than two years of programming experience and over one year of professional experience as a full-stack developer.
-
-Currently, I work at Grupo Awtech, developing and maintaining critical production applications using Node.js, TypeScript, NestJS, React, PHP, and Vue.js. In my daily work, I investigate bugs, perform root cause analysis, optimize queries in MySQL and MongoDB, and manage queues with RabbitMQ in event-driven architectures and distributed systems.
-
-Previously, I worked at Glorium CG Consultoria, maintaining systems integrated with WhatsApp and bank payment slips (boletos), as well as administering Linux servers using Docker and aaPanel. My academic and professional background has strengthened an investigative profile focused on problem-solving, continuous improvement, and building reliable solutions for production environments. Advanced English proficiency.
-
+ 
+## About Me
+ 
+I'm a Full-Stack Software Developer with 2 years of professional experience building web and mobile SaaS products, holding a B.Sc. in Computer Science from the Federal University of Alfenas (UNIFAL-MG).
+ 
+At **Grupo Awtech**, I develop and maintain high-volume production applications with Node.js, NestJS, TypeScript, React, Vue.js, React Native and PHP (Laravel). My day-to-day includes:
+ 
+- Building REST APIs with NestJS + Prisma and Laravel, backed by PostgreSQL, MySQL, MongoDB, Cassandra and Redis
+- Integrating bank APIs (Banco do Brasil, Santander, Bradesco) for payment slips (boletos), reconciliation and statements
+- Investigating production bugs, performing root cause analysis and optimizing SQL queries
+- Working with RabbitMQ queues in event-driven architectures
+- Bringing SaaS features to mobile with React Native + Expo
+- Shipping monthly releases with Docker and monitoring errors with Sentry
+Previously, at **Glorium CG Consultoria**, I built a legal-notice management platform with React, Next.js and TypeScript, integrated the WhatsApp Business API and Asaas payment slips, and managed Linux servers with Docker and aaPanel.
+ 
+🌎 Intermediary English | 📍 Alfenas, MG – Brazil (GMT-3)
+ 
 ## My Skills
-[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,php,java,python,react,vue,html,css,bootstrap,mysql,postgres,mongodb,redis,cassandra,docker,linux,nginx,rabbitmq,git,github)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,php,laravel,java,python,react,nextjs,vue,vite,html,css,tailwind,bootstrap,prisma,mysql,postgres,mongodb,redis,cassandra,docker,kubernetes,linux,nginx,rabbitmq,githubactions,git,github)](https://skillicons.dev)
+ 
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api?username=pedrohalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohalb&theme=dark&hide_border=false)
-
-  ## Contact
-  <div> 
-  <a href="https://www.instagram.com/pedroohalb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedro.barbosa@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/pedro-henrique-alves-barbosa-3056aa26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/pedrohalb" target="_blank"><img src="https://img.shields.io/github/followers/pedrohalb?label=follow&style=social" target="_blank"></a>
+ 
+## Contact
+<div>
+  <a href="https://www.linkedin.com/in/pedro-henrique-alves-barbosa-3056aa26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pedroohalb@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://portfolio-six-iota-tu03rl1l2b.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/pedrohalb" target="_blank"><img src="https://img.shields.io/github/followers/pedrohalb?label=follow&style=social"></a>
 </div>
+ 
